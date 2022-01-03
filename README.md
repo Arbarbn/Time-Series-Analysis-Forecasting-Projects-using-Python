@@ -1,6 +1,1 @@
-# 30daysofML
-How to develop my skill in Machine Learning. 
-Bismillaahirrahmaanirrahiim~
-
-DAY 1 : Time Series Analysis and Forecasting using US Superstore data
-========================================================================
+I am try to make **Time Series Analysis and Forecasting using US Superstore data**. It is start of my projects. It hasn't finished yet. 
